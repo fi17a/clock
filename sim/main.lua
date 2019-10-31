@@ -1,0 +1,1 @@
+love.update = require 'clock' ()
